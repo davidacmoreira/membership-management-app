@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "membership-management-pwa",
-    "slug": "membership-management-pwa",
+    "name": "membership-management-app",
+    "slug": "membership-management-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
